@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: read
+      contents: weite
 
     steps:
     - name: Restore cached build
